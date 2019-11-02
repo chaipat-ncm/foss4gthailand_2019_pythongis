@@ -13,3 +13,6 @@
 4. เรียนรู้การเข้าถึงข้อมูล Spatial Data ผ่าน OGC web Service เช่น WMS , WFS
 5. เรียนรู้ การวิเคราะห์ Network Analysis เบื้องต้นกับ OSM(Open Street Map) Dataset **
 6. เรียนรู้การแสดงผล นำเสนอข้อมูล Spatial Data ทั้งรูปแบบแผนที่ thematic map และ Web Map Application
+
+# Lab
+http://bit.ly/327az8B
