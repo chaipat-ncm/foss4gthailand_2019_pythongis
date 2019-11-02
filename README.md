@@ -15,4 +15,4 @@
 6. เรียนรู้การแสดงผล นำเสนอข้อมูล Spatial Data ทั้งรูปแบบแผนที่ thematic map และ Web Map Application
 
 # Lab
-http://bit.ly/327az8B
+http://bit.ly/2WzoEdI
