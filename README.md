@@ -18,5 +18,5 @@
 http://bit.ly/2WzoEdI
 
 # Machine Learning for GIS
-https://forms.gle/pYsP7GDcNKKnPwJ
+
 
