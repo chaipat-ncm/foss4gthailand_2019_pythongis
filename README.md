@@ -19,4 +19,5 @@ http://bit.ly/2WzoEdI
 
 # Machine Learning for GIS
 
-
+# Lecture 
+http://bit.ly/2Da5sKT
