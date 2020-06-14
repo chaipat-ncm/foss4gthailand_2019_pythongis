@@ -15,7 +15,7 @@
 6. เรียนรู้การแสดงผล นำเสนอข้อมูล Spatial Data ทั้งรูปแบบแผนที่ thematic map และ Web Map Application
 
 # Lab
-http://bit.ly/2WzoEdI
+http://bit.ly/2WzoEd
 
 # Machine Learning for GIS
 
